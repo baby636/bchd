@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@improbable-eng/grpc-web": "^0.13.0",
+    "@improbable-eng/grpc-web": "^0.14.0",
     "@types/google-protobuf": "^3.7.2",
     "google-protobuf": "^4.0.0-rc.2",
     "ts-protoc-gen": "^0.12.0"
